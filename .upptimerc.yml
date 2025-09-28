@@ -37,13 +37,12 @@ status-website:
   baseUrl: /monitor
   logoUrl: https://forms.datavoid.in/datavoid.png
   name: Network Status
-  introTitle: "*Powered by DataVoid Community*"
+  introTitle: ""
   introMessage: This is a status page which uses **real-time** data from our servers to provide you with **live** updates
   navbar:
     - title: Status
       href: /
-    - title: Blog
-      href: https://blog.datavoid.in
+    #- title: Github
      # href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more

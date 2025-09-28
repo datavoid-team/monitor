@@ -36,8 +36,8 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /monitor
   logoUrl: https://forms.datavoid.in/datavoid.png
-  name: DataVoid Network Status
-  introTitle: "**Powered by DataVoid Community**"
+  name: Network Status
+  introTitle: "*Powered by DataVoid Community*"
   introMessage: This is a status page which uses **real-time** data from our servers to provide you with **live** updates
   navbar:
     - title: Status

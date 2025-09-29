@@ -53,3 +53,6 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 i18n:
   footer: This page is [open source]($REPO), maintained by [DataVoid Community](https://www.datavoid.in)
+notifications:
+  - type: telegram
+  

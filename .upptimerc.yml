@@ -33,6 +33,10 @@ sites:
     url: https://chat.datavoid.in
   - name: URL Analyzer
     url: https://analyzer.datavoid.in
+  - name: DataVoid ER Wizard
+    url: https://erwizard.datavoid.in
+  - name: Motion
+    url: https://motion.datavoid.in
 
 status-website:
   title: Network Status

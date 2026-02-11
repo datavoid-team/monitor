@@ -37,6 +37,10 @@ sites:
     url: https://erwizard.datavoid.in
   - name: Motion
     url: https://motion.datavoid.in
+  - name: DataVoid Console
+    url: https://console.datavoid.in
+  - name: Typer Dash
+    url: https://type.datavoid.in
 
 status-website:
   title: Network Status

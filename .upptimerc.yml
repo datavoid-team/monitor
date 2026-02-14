@@ -1,6 +1,5 @@
-# Change these first
-owner: datavoid-team # Your GitHub organization or username, where this repository lives
-repo: monitor # The name of this repository
+owner: datavoid-team
+repo: monitor
 
 sites:
   - name: Home
@@ -45,25 +44,86 @@ sites:
     url: https://scan.datavoid.in
 
 status-website:
-  title: Network Status
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # 1. Base Settings
   cname: status.datavoid.in
-  #baseUrl: /monitor
   logoUrl: https://forms.datavoid.in/datavoid.png
-  name: Network 
-  introTitle: ""
-  introMessage: This is a status page which uses **real-time** data from our servers to provide you with **live** updates
+  favicon: https://forms.datavoid.in/datavoid.png
+  name: DataVoid Network
+  introTitle: "System Status"
+  introMessage: "Real-time performance monitoring and incident history for DataVoid services."
+  
+  # 2. Regional & PWA Features
+  timeZone: "Asia/Kolkata" # Sets graphs to your local time (IST)
+  serviceWorker: true      # Enables offline caching (PWA behavior)
+  
+  # 3. Theme Settings
+  theme: dark
+  
+  # 4. Custom "Neutral" Design (Removes default blue-slate tint)
+  css: |
+    :root {
+      --bg-color: #0a0a0a;
+      --card-bg: #171717;
+      --border-color: #262626;
+      --text-main: #ededed;
+      --text-muted: #a3a3a3;
+      --success: #22c55e;
+      --warning: #eab308;
+      --danger: #ef4444;
+    }
+    
+    body {
+      background-color: var(--bg-color) !important;
+      color: var(--text-main) !important;
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+
+    /* Header Styling */
+    .hero {
+      background-color: var(--bg-color) !important;
+      background-image: radial-gradient(circle at top, #262626 0%, transparent 70%);
+      padding-bottom: 2rem !important;
+    }
+    .hero .title { color: var(--text-main) !important; font-weight: 700; }
+    .hero .subtitle { color: var(--text-muted) !important; }
+    
+    /* Card/Box Styling - Flat & Neutral */
+    .box {
+      background-color: var(--card-bg) !important;
+      border: 1px solid var(--border-color);
+      box-shadow: none !important;
+      border-radius: 8px;
+    }
+    
+    /* Link Styling */
+    a { color: var(--text-main); text-decoration: underline; text-decoration-color: #404040; }
+    a:hover { color: #fff; text-decoration-color: #fff; }
+    
+    /* Graph/Status Colors */
+    .day.success { background-color: var(--success) !important; opacity: 0.9; }
+    .day.warning { background-color: var(--warning) !important; }
+    .day.danger { background-color: var(--danger) !important; }
+    
+    /* Navbar Polish */
+    .navbar { background-color: var(--bg-color) !important; }
+    .navbar-item { color: var(--text-muted) !important; }
+    .navbar-item:hover { color: var(--text-main) !important; background-color: transparent !important; }
+
   navbar:
     - title: Status
       href: /
-    #- title: Github
-     # href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://www.datavoid.in
+    - title: GitHub
+      href: https://github.com/datavoid-team
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# 5. Localization & Notifications
 i18n:
-  footer: This page is [open source]($REPO), maintained by [DataVoid Community](https://www.datavoid.in)
+  activeIncidents: "Ongoing Incidents"
+  allSystemsOperational: "All Systems Operational"
+  incidentReport: "Incident Report"
+  footer: "Maintained by the **DataVoid Team**. Open Source on [GitHub]($REPO)."
+
 notifications:
   - type: telegram
-  
+    # Requires secrets: NOTIFICATION_TELEGRAM_BOT_TOKEN & NOTIFICATION_TELEGRAM_CHAT_ID in Repo Settings

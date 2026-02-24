@@ -1,7 +1,7 @@
 url: https://affiliate.datavoid.in
-status: up
-code: 200
-responseTime: 263
-lastUpdated: 2026-02-24T00:01:39.328Z
+status: down
+code: 429
+responseTime: 500
+lastUpdated: 2026-02-24T08:03:05.098Z
 startTime: 2025-09-28T21:29:58.377Z
 generator: Upptime <https://github.com/upptime/upptime>

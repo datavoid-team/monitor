@@ -6,6 +6,8 @@ sites:
     url: https://www.datavoid.in
   - name: Blog
     url: https://blog.datavoid.in
+  - name: Cloud
+    url: https://cloud.datavoid.in
   - name: Hosting Service
     url: https://server.datavoid.in
   - name: Downloader

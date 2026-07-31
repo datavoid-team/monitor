@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.datavoid.in.ico",
     "slug": "home",
     "status": "down",
-    "uptime": "98.98%",
+    "uptime": "98.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "68.21%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "98.98%",
+    "uptimeWeek": "67.62%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "98.97%",
     "time": 320,
     "timeDay": 0,
     "timeWeek": 328,
@@ -37,7 +37,7 @@
       "2026-07-27": 189,
       "2026-07-29": 657,
       "2026-07-30": 1097,
-      "2026-07-31": 1193
+      "2026-07-31": 1253
     }
   },
   {
@@ -85,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.datavoid.in.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "93.83%",
     "uptimeWeek": "80.87%",
     "uptimeMonth": "87.62%",
-    "uptimeYear": "93.59%",
+    "uptimeYear": "93.60%",
     "time": 1883,
     "timeDay": 1636,
     "timeWeek": 1880,
@@ -220,15 +220,15 @@
     "url": "https://help.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/help.datavoid.in.ico",
     "slug": "help-desk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "82.15%",
-    "uptimeWeek": "85.54%",
+    "uptimeDay": "81.97%",
+    "uptimeWeek": "85.52%",
     "uptimeMonth": "96.67%",
     "uptimeYear": "99.18%",
     "time": 335,
-    "timeDay": 708,
-    "timeWeek": 388,
+    "timeDay": 646,
+    "timeWeek": 386,
     "timeMonth": 311,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -256,7 +256,7 @@
       "2026-07-25": 71,
       "2026-07-29": 594,
       "2026-07-30": 600,
-      "2026-07-31": 192
+      "2026-07-31": 195
     }
   },
   {
@@ -264,16 +264,16 @@
     "url": "https://scamcheck.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/scamcheck.datavoid.in.ico",
     "slug": "scam-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "71.74%",
-    "uptimeWeek": "84.48%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "71.84%",
+    "uptimeWeek": "84.45%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "99.44%",
     "time": 306,
-    "timeDay": 291,
-    "timeWeek": 271,
-    "timeMonth": 248,
+    "timeDay": 331,
+    "timeWeek": 277,
+    "timeMonth": 251,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-10-09": 19,
@@ -291,7 +291,7 @@
       "2026-06-25": 167,
       "2026-07-29": 725,
       "2026-07-30": 436,
-      "2026-07-31": 403
+      "2026-07-31": 405
     }
   },
   {

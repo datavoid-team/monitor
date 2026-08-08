@@ -8,7 +8,7 @@
     "uptime": "96.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.34%",
+    "uptimeMonth": "66.25%",
     "uptimeYear": "96.45%",
     "time": 320,
     "timeDay": 0,
@@ -37,7 +37,7 @@
       "2026-07-27": 189,
       "2026-07-29": 657,
       "2026-07-30": 1097,
-      "2026-08-08": 1216,
+      "2026-08-08": 1254,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.datavoid.in.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "26.16%",
+    "uptime": "98.08%",
+    "uptimeDay": "26.10%",
     "uptimeWeek": "41.05%",
-    "uptimeMonth": "82.92%",
-    "uptimeYear": "98.09%",
+    "uptimeMonth": "82.83%",
+    "uptimeYear": "98.08%",
     "time": 389,
     "timeDay": 319,
     "timeWeek": 362,
@@ -92,7 +92,7 @@
       "2026-08-05": 1123,
       "2026-08-06": 463,
       "2026-08-07": 592,
-      "2026-08-08": 962
+      "2026-08-08": 1000
     }
   },
   {
@@ -171,13 +171,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.datavoid.in.ico",
     "slug": "hosting-service",
     "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "31.07%",
+    "uptime": "97.96%",
+    "uptimeDay": "31.01%",
     "uptimeWeek": "43.68%",
-    "uptimeMonth": "83.39%",
-    "uptimeYear": "97.97%",
+    "uptimeMonth": "83.30%",
+    "uptimeYear": "97.96%",
     "time": 345,
-    "timeDay": 350,
+    "timeDay": 357,
     "timeWeek": 352,
     "timeMonth": 335,
     "timeYear": 345,
@@ -217,7 +217,7 @@
       "2026-08-05": 1133,
       "2026-08-06": 629,
       "2026-08-07": 570,
-      "2026-08-08": 915
+      "2026-08-08": 953
     }
   },
   {
@@ -250,7 +250,7 @@
     "uptime": "97.75%",
     "uptimeDay": "34.37%",
     "uptimeWeek": "42.92%",
-    "uptimeMonth": "81.70%",
+    "uptimeMonth": "81.61%",
     "uptimeYear": "97.75%",
     "time": 336,
     "timeDay": 321,
@@ -290,7 +290,7 @@
       "2026-08-05": 980,
       "2026-08-06": 614,
       "2026-08-07": 517,
-      "2026-08-08": 779
+      "2026-08-08": 817
     }
   },
   {
@@ -299,11 +299,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/scamcheck.datavoid.in.ico",
     "slug": "scam-checker",
     "status": "down",
-    "uptime": "98.02%",
+    "uptime": "98.01%",
     "uptimeDay": "24.51%",
     "uptimeWeek": "45.03%",
-    "uptimeMonth": "81.63%",
-    "uptimeYear": "98.02%",
+    "uptimeMonth": "81.55%",
+    "uptimeYear": "98.01%",
     "time": 310,
     "timeDay": 349,
     "timeWeek": 338,
@@ -333,7 +333,7 @@
       "2026-08-05": 980,
       "2026-08-06": 501,
       "2026-08-07": 352,
-      "2026-08-08": 963
+      "2026-08-08": 1001
     }
   },
   {
@@ -342,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/affiliate.datavoid.in.ico",
     "slug": "affiliate-login",
     "status": "down",
-    "uptime": "98.32%",
+    "uptime": "98.31%",
     "uptimeDay": "29.68%",
     "uptimeWeek": "53.40%",
-    "uptimeMonth": "85.56%",
-    "uptimeYear": "98.32%",
+    "uptimeMonth": "85.48%",
+    "uptimeYear": "98.31%",
     "time": 334,
     "timeDay": 326,
     "timeWeek": 342,
@@ -379,7 +379,7 @@
       "2026-08-05": 980,
       "2026-08-06": 346,
       "2026-08-07": 449,
-      "2026-08-08": 888
+      "2026-08-08": 926
     }
   },
   {
@@ -597,16 +597,16 @@
     "url": "https://survey.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/survey.datavoid.in.ico",
     "slug": "data-void-surveys",
-    "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "37.40%",
-    "uptimeWeek": "53.00%",
-    "uptimeMonth": "86.24%",
-    "uptimeYear": "98.36%",
+    "status": "up",
+    "uptime": "98.35%",
+    "uptimeDay": "37.59%",
+    "uptimeWeek": "53.03%",
+    "uptimeMonth": "86.15%",
+    "uptimeYear": "98.35%",
     "time": 262,
-    "timeDay": 294,
-    "timeWeek": 330,
-    "timeMonth": 303,
+    "timeDay": 288,
+    "timeWeek": 327,
+    "timeMonth": 302,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2025-10-11": 16,
@@ -638,7 +638,7 @@
       "2026-08-04": 662,
       "2026-08-05": 980,
       "2026-08-07": 667,
-      "2026-08-08": 804
+      "2026-08-08": 840
     }
   },
   {

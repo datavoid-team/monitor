@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "93.53%",
     "uptimeDay": "86.59%",
-    "uptimeWeek": "48.86%",
+    "uptimeWeek": "49.06%",
     "uptimeMonth": "33.27%",
     "uptimeYear": "93.53%",
     "time": 322,
@@ -67,16 +67,16 @@
     "url": "https://blog.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/blog.datavoid.in.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "83.98%",
-    "uptimeWeek": "90.91%",
-    "uptimeMonth": "69.44%",
+    "uptimeDay": "82.82%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "69.40%",
     "uptimeYear": "96.91%",
     "time": 385,
-    "timeDay": 381,
-    "timeWeek": 364,
-    "timeMonth": 354,
+    "timeDay": 410,
+    "timeWeek": 372,
+    "timeMonth": 356,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-17": 19,
@@ -120,7 +120,7 @@
       "2026-08-19": 30,
       "2026-08-20": 25,
       "2026-08-21": 394,
-      "2026-08-22": 53
+      "2026-08-22": 70
     }
   },
   {
@@ -191,16 +191,16 @@
     "url": "https://server.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/server.datavoid.in.ico",
     "slug": "hosting-service",
-    "status": "down",
+    "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "96.33%",
-    "uptimeWeek": "93.32%",
-    "uptimeMonth": "71.40%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "93.16%",
+    "uptimeMonth": "71.36%",
     "uptimeYear": "96.94%",
     "time": 344,
-    "timeDay": 295,
-    "timeWeek": 334,
-    "timeMonth": 344,
+    "timeDay": 274,
+    "timeWeek": 330,
+    "timeMonth": 343,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-09-30": 29,
@@ -252,7 +252,7 @@
       "2026-08-19": 28,
       "2026-08-20": 30,
       "2026-08-21": 323,
-      "2026-08-22": 4
+      "2026-08-22": 21
     }
   },
   {
@@ -283,7 +283,7 @@
     "slug": "help-desk",
     "status": "up",
     "uptime": "96.52%",
-    "uptimeDay": "68.91%",
+    "uptimeDay": "70.36%",
     "uptimeWeek": "82.93%",
     "uptimeMonth": "65.98%",
     "uptimeYear": "96.52%",

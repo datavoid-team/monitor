@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "93.53%",
     "uptimeDay": "90.75%",
-    "uptimeWeek": "72.31%",
+    "uptimeWeek": "72.34%",
     "uptimeMonth": "32.97%",
     "uptimeYear": "93.53%",
     "time": 322,
@@ -132,9 +132,9 @@
     "slug": "cloud",
     "status": "down",
     "uptime": "96.46%",
-    "uptimeDay": "82.96%",
+    "uptimeDay": "82.80%",
     "uptimeWeek": "91.00%",
-    "uptimeMonth": "85.37%",
+    "uptimeMonth": "85.36%",
     "uptimeYear": "96.46%",
     "time": 1884,
     "timeDay": 2003,
@@ -184,7 +184,7 @@
       "2026-08-21": 55,
       "2026-08-22": 147,
       "2026-08-23": 198,
-      "2026-08-24": 48
+      "2026-08-24": 51
     }
   },
   {
@@ -194,8 +194,8 @@
     "slug": "hosting-service",
     "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "94.28%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "94.26%",
     "uptimeMonth": "71.25%",
     "uptimeYear": "96.94%",
     "time": 343,
@@ -254,7 +254,7 @@
       "2026-08-20": 30,
       "2026-08-21": 323,
       "2026-08-22": 21,
-      "2026-08-24": 48
+      "2026-08-24": 50
     }
   },
   {
@@ -460,7 +460,7 @@
     "slug": "data-void-events",
     "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "84.74%",
+    "uptimeDay": "84.58%",
     "uptimeWeek": "91.84%",
     "uptimeMonth": "86.65%",
     "uptimeYear": "98.23%",
@@ -512,7 +512,7 @@
       "2026-08-21": 54,
       "2026-08-22": 132,
       "2026-08-23": 178,
-      "2026-08-24": 42
+      "2026-08-24": 44
     }
   },
   {
@@ -522,9 +522,9 @@
     "slug": "data-void-search",
     "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "86.41%",
+    "uptimeDay": "86.25%",
     "uptimeWeek": "92.67%",
-    "uptimeMonth": "87.03%",
+    "uptimeMonth": "87.02%",
     "uptimeYear": "98.29%",
     "time": 1719,
     "timeDay": 1757,
@@ -574,7 +574,7 @@
       "2026-08-21": 50,
       "2026-08-22": 118,
       "2026-08-23": 158,
-      "2026-08-24": 37
+      "2026-08-24": 39
     }
   },
   {
@@ -584,7 +584,7 @@
     "slug": "data-void-editor",
     "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "88.08%",
+    "uptimeDay": "87.93%",
     "uptimeWeek": "93.89%",
     "uptimeMonth": "88.42%",
     "uptimeYear": "98.43%",
@@ -637,7 +637,7 @@
       "2026-08-21": 45,
       "2026-08-22": 105,
       "2026-08-23": 140,
-      "2026-08-24": 32
+      "2026-08-24": 34
     }
   },
   {
@@ -705,11 +705,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/forms.datavoid.in.ico",
     "slug": "data-void-forms",
     "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "89.75%",
+    "uptime": "98.53%",
+    "uptimeDay": "89.60%",
     "uptimeWeek": "94.40%",
     "uptimeMonth": "89.19%",
-    "uptimeYear": "98.54%",
+    "uptimeYear": "98.53%",
     "time": 900,
     "timeDay": 861,
     "timeWeek": 815,
@@ -758,7 +758,7 @@
       "2026-08-21": 40,
       "2026-08-22": 90,
       "2026-08-23": 120,
-      "2026-08-24": 27
+      "2026-08-24": 30
     }
   },
   {
@@ -789,9 +789,9 @@
     "slug": "chat",
     "status": "down",
     "uptime": "98.63%",
-    "uptimeDay": "91.53%",
+    "uptimeDay": "91.39%",
     "uptimeWeek": "95.39%",
-    "uptimeMonth": "90.01%",
+    "uptimeMonth": "90.00%",
     "uptimeYear": "98.63%",
     "time": 1172,
     "timeDay": 1066,
@@ -841,7 +841,7 @@
       "2026-08-21": 37,
       "2026-08-22": 75,
       "2026-08-23": 101,
-      "2026-08-24": 21
+      "2026-08-24": 23
     }
   },
   {
@@ -851,7 +851,7 @@
     "slug": "url-analyzer",
     "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "93.21%",
+    "uptimeDay": "93.07%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "90.33%",
     "uptimeYear": "98.69%",
@@ -903,7 +903,7 @@
       "2026-08-21": 32,
       "2026-08-22": 60,
       "2026-08-23": 82,
-      "2026-08-24": 16
+      "2026-08-24": 18
     }
   },
   {
@@ -961,7 +961,7 @@
     "slug": "data-void-console",
     "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "94.87%",
+    "uptimeDay": "94.74%",
     "uptimeWeek": "97.02%",
     "uptimeMonth": "91.16%",
     "uptimeYear": "97.94%",
@@ -1013,7 +1013,7 @@
       "2026-08-21": 27,
       "2026-08-22": 45,
       "2026-08-23": 62,
-      "2026-08-24": 12
+      "2026-08-24": 14
     }
   },
   {
@@ -1023,7 +1023,7 @@
     "slug": "typer-dash",
     "status": "down",
     "uptime": "96.36%",
-    "uptimeDay": "99.55%",
+    "uptimeDay": "99.41%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "96.36%",
@@ -1087,7 +1087,7 @@
       "2026-08-16": 40,
       "2026-08-17": 63,
       "2026-08-20": 19,
-      "2026-08-24": 6
+      "2026-08-24": 8
     }
   },
   {
@@ -1097,9 +1097,9 @@
     "slug": "scan",
     "status": "down",
     "uptime": "96.14%",
-    "uptimeDay": "99.88%",
+    "uptimeDay": "99.75%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "93.62%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "96.14%",
     "time": 816,
     "timeDay": 795,
@@ -1163,7 +1163,7 @@
       "2026-08-13": 53,
       "2026-08-16": 35,
       "2026-08-17": 58,
-      "2026-08-24": 2
+      "2026-08-24": 4
     }
   }
 ]

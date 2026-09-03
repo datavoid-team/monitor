@@ -1,7 +1,7 @@
 url: https://scamcheck.datavoid.in
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2026-09-03T01:00:05.371Z
+status: down
+code: 429
+responseTime: 531
+lastUpdated: 2026-09-03T17:34:41.847Z
 startTime: 2025-09-28T21:29:57.790Z
 generator: Upptime <https://github.com/upptime/upptime>

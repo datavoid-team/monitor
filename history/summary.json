@@ -8,7 +8,7 @@
     "uptime": "92.43%",
     "uptimeDay": "81.43%",
     "uptimeWeek": "59.53%",
-    "uptimeMonth": "87.85%",
+    "uptimeMonth": "87.83%",
     "uptimeYear": "92.26%",
     "time": 324,
     "timeDay": 286,
@@ -83,7 +83,7 @@
       "2026-10-04": 145,
       "2026-10-06": 395,
       "2026-10-05": 880,
-      "2026-10-07": 5
+      "2026-10-07": 12
     }
   },
   {
@@ -91,17 +91,17 @@
     "url": "https://blog.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/blog.datavoid.in.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "95.65%",
-    "uptimeDay": "52.23%",
-    "uptimeWeek": "58.52%",
-    "uptimeMonth": "85.91%",
+    "uptimeDay": "52.56%",
+    "uptimeWeek": "58.49%",
+    "uptimeMonth": "85.90%",
     "uptimeYear": "95.55%",
-    "time": 383,
-    "timeDay": 463,
-    "timeWeek": 435,
-    "timeMonth": 371,
-    "timeYear": 386,
+    "time": 384,
+    "timeDay": 580,
+    "timeWeek": 460,
+    "timeMonth": 381,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2026-07-29": 63,
       "2026-07-30": 341,
@@ -152,7 +152,7 @@
       "2026-10-04": 145,
       "2026-10-05": 365,
       "2026-10-06": 816,
-      "2026-10-07": 4
+      "2026-10-07": 7
     }
   },
   {
@@ -230,7 +230,7 @@
     "uptime": "95.82%",
     "uptimeDay": "52.25%",
     "uptimeWeek": "64.22%",
-    "uptimeMonth": "84.49%",
+    "uptimeMonth": "84.47%",
     "uptimeYear": "95.72%",
     "time": 341,
     "timeDay": 386,
@@ -287,7 +287,7 @@
       "2026-10-04": 446,
       "2026-10-05": 599,
       "2026-10-06": 796,
-      "2026-10-07": 4
+      "2026-10-07": 11
     }
   },
   {
@@ -313,19 +313,19 @@
     "url": "https://help.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/help.datavoid.in.ico",
     "slug": "help-desk",
-    "status": "up",
-    "uptime": "95.77%",
-    "uptimeDay": "52.41%",
-    "uptimeWeek": "58.13%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "52.73%",
+    "uptimeWeek": "58.10%",
     "uptimeMonth": "82.84%",
-    "uptimeYear": "95.67%",
-    "time": 335,
-    "timeDay": 419,
-    "timeWeek": 363,
-    "timeMonth": 343,
+    "uptimeYear": "95.72%",
+    "time": 336,
+    "timeDay": 430,
+    "timeWeek": 368,
+    "timeMonth": 345,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2026-08-03": 755,
+      "2026-08-03": 537,
       "2026-08-04": 1057,
       "2026-08-05": 980,
       "2026-08-06": 614,
@@ -369,7 +369,8 @@
       "2026-10-03": 766,
       "2026-10-05": 658,
       "2026-10-04": 26,
-      "2026-10-06": 796
+      "2026-10-06": 796,
+      "2026-10-07": 3
     }
   },
   {
@@ -377,20 +378,20 @@
     "url": "https://scamcheck.datavoid.in",
     "icon": "https://icons.duckduckgo.com/ip3/scamcheck.datavoid.in.ico",
     "slug": "scam-checker",
-    "status": "up",
-    "uptime": "95.90%",
-    "uptimeDay": "68.58%",
-    "uptimeWeek": "55.67%",
+    "status": "down",
+    "uptime": "95.92%",
+    "uptimeDay": "68.92%",
+    "uptimeWeek": "55.65%",
     "uptimeMonth": "84.32%",
-    "uptimeYear": "95.81%",
+    "uptimeYear": "95.82%",
     "time": 317,
-    "timeDay": 420,
-    "timeWeek": 335,
-    "timeMonth": 323,
-    "timeYear": 320,
+    "timeDay": 435,
+    "timeWeek": 342,
+    "timeMonth": 326,
+    "timeYear": 321,
     "dailyMinutesDown": {
-      "2026-07-31": 126,
       "2026-08-01": 973,
+      "2026-07-31": 61,
       "2026-08-02": 730,
       "2026-08-03": 1080,
       "2026-08-04": 779,
@@ -438,7 +439,8 @@
       "2026-10-03": 544,
       "2026-10-04": 130,
       "2026-10-05": 700,
-      "2026-10-06": 563
+      "2026-10-06": 563,
+      "2026-10-07": 2
     }
   },
   {
@@ -448,7 +450,7 @@
     "slug": "affiliate-login",
     "status": "up",
     "uptime": "95.73%",
-    "uptimeDay": "52.41%",
+    "uptimeDay": "52.91%",
     "uptimeWeek": "57.91%",
     "uptimeMonth": "82.80%",
     "uptimeYear": "95.64%",
@@ -709,7 +711,7 @@
     "slug": "data-void-surveys",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "52.43%",
+    "uptimeDay": "52.92%",
     "uptimeWeek": "64.18%",
     "uptimeMonth": "83.80%",
     "uptimeYear": "95.91%",

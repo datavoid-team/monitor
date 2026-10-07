@@ -1,7 +1,7 @@
 url: https://www.datavoid.in
-status: up
-code: 200
-responseTime: 60
-lastUpdated: 2026-10-06T06:35:14.520Z
+status: down
+code: 429
+responseTime: 377
+lastUpdated: 2026-10-07T02:07:51.925Z
 startTime: 2025-09-28T22:15:28.794Z
 generator: Upptime <https://github.com/upptime/upptime>

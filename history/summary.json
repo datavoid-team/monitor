@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.datavoid.in.ico",
     "slug": "home",
     "status": "down",
-    "uptime": "92.28%",
+    "uptime": "92.25%",
     "uptimeDay": "36.18%",
     "uptimeWeek": "58.00%",
-    "uptimeMonth": "85.69%",
-    "uptimeYear": "92.08%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "92.06%",
     "time": 324,
     "timeDay": 364,
     "timeWeek": 338,
@@ -84,7 +84,7 @@
       "2026-10-06": 395,
       "2026-10-05": 880,
       "2026-10-07": 890,
-      "2026-10-08": 61
+      "2026-10-08": 210
     }
   },
   {
@@ -95,7 +95,7 @@
     "status": "up",
     "uptime": "95.60%",
     "uptimeDay": "76.75%",
-    "uptimeWeek": "59.32%",
+    "uptimeWeek": "60.80%",
     "uptimeMonth": "85.16%",
     "uptimeYear": "95.49%",
     "time": 384,
@@ -230,8 +230,8 @@
     "slug": "hosting-service",
     "status": "up",
     "uptime": "95.71%",
-    "uptimeDay": "51.00%",
-    "uptimeWeek": "61.22%",
+    "uptimeDay": "61.36%",
+    "uptimeWeek": "62.71%",
     "uptimeMonth": "82.82%",
     "uptimeYear": "95.60%",
     "time": 342,
@@ -316,11 +316,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.datavoid.in.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "95.70%",
+    "uptime": "95.67%",
     "uptimeDay": "29.37%",
-    "uptimeWeek": "54.70%",
-    "uptimeMonth": "80.47%",
-    "uptimeYear": "95.59%",
+    "uptimeWeek": "53.22%",
+    "uptimeMonth": "80.13%",
+    "uptimeYear": "95.56%",
     "time": 337,
     "timeDay": 546,
     "timeWeek": 386,
@@ -373,7 +373,7 @@
       "2026-10-04": 26,
       "2026-10-06": 796,
       "2026-10-07": 879,
-      "2026-10-08": 160
+      "2026-10-08": 309
     }
   },
   {
@@ -382,11 +382,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/scamcheck.datavoid.in.ico",
     "slug": "scam-checker",
     "status": "down",
-    "uptime": "95.80%",
+    "uptime": "95.78%",
     "uptimeDay": "50.65%",
     "uptimeWeek": "52.28%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "82.31%",
+    "uptimeYear": "95.67%",
     "time": 318,
     "timeDay": 469,
     "timeWeek": 351,
@@ -443,7 +443,7 @@
       "2026-10-05": 700,
       "2026-10-06": 563,
       "2026-10-07": 573,
-      "2026-10-08": 160
+      "2026-10-08": 309
     }
   },
   {
@@ -452,11 +452,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/affiliate.datavoid.in.ico",
     "slug": "affiliate-login",
     "status": "down",
-    "uptime": "95.75%",
-    "uptimeDay": "92.94%",
-    "uptimeWeek": "67.59%",
-    "uptimeMonth": "82.57%",
-    "uptimeYear": "95.65%",
+    "uptime": "95.73%",
+    "uptimeDay": "82.58%",
+    "uptimeWeek": "66.11%",
+    "uptimeMonth": "82.23%",
+    "uptimeYear": "95.62%",
     "time": 341,
     "timeDay": 598,
     "timeWeek": 398,
@@ -512,7 +512,7 @@
       "2026-10-05": 700,
       "2026-10-04": 25,
       "2026-10-06": 796,
-      "2026-10-08": 102
+      "2026-10-08": 251
     }
   },
   {
@@ -713,11 +713,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/survey.datavoid.in.ico",
     "slug": "data-void-surveys",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "83.36%",
+    "uptime": "95.97%",
+    "uptimeDay": "72.99%",
     "uptimeWeek": "67.08%",
-    "uptimeMonth": "83.25%",
-    "uptimeYear": "95.89%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "95.86%",
     "time": 286,
     "timeDay": 405,
     "timeWeek": 350,
@@ -775,7 +775,7 @@
       "2026-10-04": 343,
       "2026-10-05": 41,
       "2026-10-06": 796,
-      "2026-10-08": 62,
+      "2026-10-08": 212,
       "2026-10-07": 178
     }
   },
@@ -1041,11 +1041,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/console.datavoid.in.ico",
     "slug": "data-void-console",
     "status": "down",
-    "uptime": "97.46%",
-    "uptimeDay": "55.35%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "92.84%",
-    "uptimeYear": "97.46%",
+    "uptime": "97.41%",
+    "uptimeDay": "44.97%",
+    "uptimeWeek": "92.14%",
+    "uptimeMonth": "92.50%",
+    "uptimeYear": "97.41%",
     "time": 1447,
     "timeDay": 0,
     "timeWeek": 1571,
@@ -1097,7 +1097,7 @@
       "2026-09-25": 555,
       "2026-09-26": 112,
       "2026-09-27": 279,
-      "2026-10-08": 161,
+      "2026-10-08": 310,
       "2026-10-07": 482
     }
   },

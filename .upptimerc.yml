@@ -30,6 +30,8 @@ sites:
     url: https://forms.datavoid.in
   - name: DataVoid Creator
     url: https://create.datavoid.in
+  - name: DataVoid Writer
+    url: https://writer.datavoid.in
   - name: Chat
     url: https://chat.datavoid.in
   - name: URL Analyzer

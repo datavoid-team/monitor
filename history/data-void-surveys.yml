@@ -1,7 +1,7 @@
 url: https://survey.datavoid.in
-status: up
-code: 200
-responseTime: 361
-lastUpdated: 2026-11-10T04:31:22.642Z
+status: down
+code: 429
+responseTime: 344
+lastUpdated: 2026-11-10T18:56:42.786Z
 startTime: 2025-09-28T21:31:18.932Z
 generator: Upptime <https://github.com/upptime/upptime>

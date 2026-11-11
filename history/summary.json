@@ -8,7 +8,7 @@
     "uptime": "91.24%",
     "uptimeDay": "68.12%",
     "uptimeWeek": "68.56%",
-    "uptimeMonth": "83.19%",
+    "uptimeMonth": "83.21%",
     "uptimeYear": "90.22%",
     "time": 327,
     "timeDay": 433,
@@ -115,7 +115,7 @@
     "uptime": "95.04%",
     "uptimeDay": "79.12%",
     "uptimeWeek": "67.18%",
-    "uptimeMonth": "78.97%",
+    "uptimeMonth": "79.00%",
     "uptimeYear": "94.45%",
     "time": 386,
     "timeDay": 274,
@@ -266,10 +266,10 @@
     "slug": "hosting-service",
     "status": "down",
     "uptime": "95.84%",
-    "uptimeDay": "78.78%",
-    "uptimeWeek": "83.92%",
-    "uptimeMonth": "87.28%",
-    "uptimeYear": "95.35%",
+    "uptimeDay": "78.12%",
+    "uptimeWeek": "83.83%",
+    "uptimeMonth": "87.26%",
+    "uptimeYear": "95.34%",
     "time": 341,
     "timeDay": 281,
     "timeWeek": 316,
@@ -333,7 +333,7 @@
       "2026-11-07": 275,
       "2026-11-08": 587,
       "2026-11-10": 301,
-      "2026-11-11": 5
+      "2026-11-11": 14
     }
   },
   {
@@ -363,7 +363,7 @@
     "uptime": "95.26%",
     "uptimeDay": "89.05%",
     "uptimeWeek": "71.03%",
-    "uptimeMonth": "79.42%",
+    "uptimeMonth": "79.44%",
     "uptimeYear": "94.70%",
     "time": 339,
     "timeDay": 308,
@@ -448,7 +448,7 @@
     "uptime": "95.26%",
     "uptimeDay": "59.23%",
     "uptimeWeek": "74.53%",
-    "uptimeMonth": "75.31%",
+    "uptimeMonth": "75.33%",
     "uptimeYear": "94.70%",
     "time": 320,
     "timeDay": 305,
@@ -530,10 +530,10 @@
     "slug": "affiliate-login",
     "status": "down",
     "uptime": "95.27%",
-    "uptimeDay": "57.64%",
-    "uptimeWeek": "77.88%",
+    "uptimeDay": "56.98%",
+    "uptimeWeek": "77.78%",
     "uptimeMonth": "81.32%",
-    "uptimeYear": "94.71%",
+    "uptimeYear": "94.70%",
     "time": 342,
     "timeDay": 516,
     "timeWeek": 377,
@@ -598,7 +598,7 @@
       "2026-11-08": 587,
       "2026-11-09": 194,
       "2026-11-10": 521,
-      "2026-11-11": 306
+      "2026-11-11": 316
     }
   },
   {
@@ -812,8 +812,8 @@
     "slug": "data-void-surveys",
     "status": "down",
     "uptime": "95.67%",
-    "uptimeDay": "68.59%",
-    "uptimeWeek": "79.68%",
+    "uptimeDay": "67.93%",
+    "uptimeWeek": "79.59%",
     "uptimeMonth": "86.09%",
     "uptimeYear": "95.16%",
     "time": 288,
@@ -879,7 +879,7 @@
       "2026-11-07": 675,
       "2026-11-09": 620,
       "2026-11-10": 301,
-      "2026-11-11": 152
+      "2026-11-11": 161
     }
   },
   {
@@ -1174,7 +1174,7 @@
     "uptime": "92.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.00%",
+    "uptimeMonth": "62.03%",
     "uptimeYear": "92.40%",
     "time": 1447,
     "timeDay": 0,

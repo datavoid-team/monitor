@@ -386,11 +386,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.datavoid.in.ico",
     "slug": "help-desk",
     "status": "down",
-    "uptime": "95.09%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "83.38%",
-    "uptimeYear": "94.33%",
+    "uptime": "95.07%",
+    "uptimeDay": "90.99%",
+    "uptimeWeek": "87.63%",
+    "uptimeMonth": "83.09%",
+    "uptimeYear": "94.30%",
     "time": 339,
     "timeDay": 469,
     "timeWeek": 340,
@@ -471,7 +471,7 @@
       "2026-11-19": 164,
       "2026-11-23": 123,
       "2026-11-22": 129,
-      "2026-11-24": 3
+      "2026-11-24": 130
     }
   },
   {
@@ -480,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/scamcheck.datavoid.in.ico",
     "slug": "scam-checker",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "82.83%",
     "uptimeMonth": "83.30%",
@@ -664,7 +664,7 @@
     "timeDay": 2101,
     "timeWeek": 1630,
     "timeMonth": 1514,
-    "timeYear": 1450,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2026-07-27": 108,
       "2026-07-28": 198,
@@ -733,7 +733,7 @@
     "timeDay": 1229,
     "timeWeek": 1190,
     "timeMonth": 1314,
-    "timeYear": 1715,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2026-08-01": 43,
       "2026-08-02": 242,
